@@ -1,0 +1,3 @@
+product_client_id,product_consultant_id,product_due_date,product_extinguisher_capacity,product_extinguisher_type,product_manufactured_date,product_name,product_remarks
+pci1,pci1,2023-01-23T08:54:14.949Z,pec1,pet2777,2023-01-23T08:54:14.949Z,Aakash,pr1
+pci1,pci1,2023-01-23T04:43:48.936Z,pec1,pet555,2023-01-23T04:43:48.936Z,pn1,pr1
